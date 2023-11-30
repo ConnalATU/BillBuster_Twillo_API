@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c4b34362-518f-473a-980c-17f98e258661/resourceGroups/backendcallsphone/providers/Microsoft.Web/sites/backendcallsphone",
+    "appService.deploySubpath": "."
+}
